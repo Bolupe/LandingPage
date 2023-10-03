@@ -1,1 +1,1 @@
-# HelpMeOut Screen Recorder
+# Landing page for 'HelpMeOut Chrome' Extension.
