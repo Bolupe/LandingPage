@@ -1,1 +1,1 @@
-# Landing page for 'HelpMeOut Chrome' Extension.
+# Landing page for 'HelpMeOut' Chrome Extension.
